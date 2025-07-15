@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Título de la app
-st.title("📈 Dashboard Interactivo de Ventas-1")
+st.title("📈 Dashboard Interactivo de Ventas-123")
 
 # Datos ficticios de ventas
 data = {
